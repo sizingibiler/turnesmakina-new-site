@@ -8,7 +8,7 @@ export default async function Page({ params }: { params: { locale: Locale } }) {
     <section>
       <div className="prose prose-invert max-w-none mb-8">
         <h1>{dict.quality.title}</h1>
-        <p className="opacity-80">{dict.services?.subtitle || (params.locale === 'tr' ? 'Ölçüm altyapımızdan bazı cihazlar:' : 'Some of our metrology equipment:')}</p>
+        <p className="opacity-80">{params.locale === 'tr' ? 'Ölçüm altyapımızdan bazı cihazlar:' : 'Some of our metrology equipment:'}</p>
       </div>
       <div className="grid gap-8 grid-cols-1 md:grid-cols-2">
         <div className="relative w-full aspect-[4/3] rounded-2xl overflow-hidden border border-white/10">

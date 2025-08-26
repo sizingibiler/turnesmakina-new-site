@@ -6,7 +6,9 @@ import { motion } from "framer-motion";
 import { usePathname } from "next/navigation";
 import { LangSwitcher } from "./LangSwitcher";
 
-export function NavBar({ locale, dict }: { locale: string; dict: any }) {
+import type { Locale } from "@/lib/i18n";
+
+export function NavBar({ locale, dict }: { locale: Locale; dict: any }) {
   const [isScrolled, setIsScrolled] = useState(false);
   const pathname = usePathname();
 

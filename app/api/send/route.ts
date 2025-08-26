@@ -21,7 +21,7 @@ export async function POST(request: Request) {
       from: 'Turnes Makina <onboarding@resend.dev>', // Must be a verified domain on Resend
       to: [toEmail], // Your email address
       subject: `New Message from ${name} via Turnes Makina Website`,
-      react: EmailTemplate({ name, email, message }) as React.ReactElement,
+      react: EmailTemplate({ name, email, message }),
     });
 
     if (error) {
