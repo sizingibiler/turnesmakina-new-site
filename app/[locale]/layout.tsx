@@ -45,7 +45,7 @@ export default async function RootLayout({
     <html lang={params.locale}>
       <body className="min-h-screen flex flex-col">
         <NavBar locale={params.locale} dict={dict} />
-        <main className="flex-1 container pt-32 md:pt-36 pb-10">{children}</main>
+        <main className="flex-1 container pt-20 sm:pt-28 md:pt-36 pb-10">{children}</main>
         <Footer locale={params.locale} dict={dict} />
       </body>
     </html>

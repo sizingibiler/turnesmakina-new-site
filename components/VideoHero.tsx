@@ -91,7 +91,7 @@ export function VideoHero({ dict, locale }: { dict: any; locale: string }) {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.5 }}
-          className="text-4xl md:text-6xl lg:text-7xl font-extrabold text-white uppercase tracking-wider"
+          className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-extrabold text-white uppercase tracking-wider px-2"
           style={{ textShadow: "0 4px 15px rgba(0,0,0,0.5)" }}
         >
           {hero.title}
@@ -101,7 +101,7 @@ export function VideoHero({ dict, locale }: { dict: any; locale: string }) {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.8 }}
-          className="mt-6 max-w-3xl mx-auto text-lg md:text-xl text-gray-300 leading-relaxed"
+          className="mt-4 sm:mt-6 max-w-3xl mx-auto text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed px-4"
         >
           {hero.subtitle}
         </motion.p>
@@ -110,12 +110,12 @@ export function VideoHero({ dict, locale }: { dict: any; locale: string }) {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 1.1 }}
-          className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-6"
+          className="mt-8 sm:mt-12 flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-6 px-4 w-full"
         >
-          <Link href={`/${locale}/hakkimizda`} className="bg-cyan-500 text-white font-bold py-3 px-8 rounded-full text-lg hover:bg-cyan-600 transition-all duration-300 shadow-lg hover:shadow-cyan-500/50 transform hover:scale-105">
+          <Link href={`/${locale}/hakkimizda`} className="w-full sm:w-auto bg-cyan-500 text-white font-bold py-3 px-6 sm:px-8 rounded-full text-base sm:text-lg hover:bg-cyan-600 transition-all duration-300 shadow-lg hover:shadow-cyan-500/50 transform hover:scale-105">
             {nav.about}
           </Link>
-          <Link href={`/${locale}/iletisim`} className="border-2 border-white/80 text-white font-bold py-3 px-8 rounded-full text-lg hover:bg-white hover:text-black transition-all duration-300 transform hover:scale-105">
+          <Link href={`/${locale}/iletisim`} className="w-full sm:w-auto border-2 border-white/80 text-white font-bold py-3 px-6 sm:px-8 rounded-full text-base sm:text-lg hover:bg-white hover:text-black transition-all duration-300 transform hover:scale-105">
             {nav.contact}
           </Link>
         </motion.div>
