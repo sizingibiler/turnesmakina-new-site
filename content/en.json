@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "machine_park": "Machine Park",
+    "quality": "Quality",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "gallery": "Gallery"
+  },
+  "hero": {
+    "title": "TURNES MACHINE",
+    "subtitle": "Experience, quality and reliability in precision machining"
+  },
+  "machinePark": {
+    "title": "Machine Park",
+    "items": [
+      "Cincom Citizen L20 Sliding Head Lathe",
+      "CITIZEN L32 - VII CNC",
+      "Traub TNK 36 Automatic Lathe",
+      "Takisawa TX-20G Lathe",
+      "STAR SR-16 Sliding Head Lathe",
+      "STAR SR-32 Sliding Head Lathe",
+      "Nakamura Tome TMC-15 Lathe",
+      "MANURHIN KMX Sliding Head Lathe",
+      "Feeler Vertical Machining Center",
+      "Feeler QM-22 AAPC CNC",
+      "Craft TA300M Band Saw",
+      "Thread Rolling Machine",
+      "Retosan Gear Drilling Machine"
+    ]
+  },
+  "quality": {
+    "title": "Measuring Equipment",
+    "items": [
+      "Keyence TM3000 optical micrometer system",
+      "VMS 2010G and video measurement",
+      "Surface roughness tester",
+      "Digital height gauges",
+      "Digital micrometers",
+      "Digital bore and outside micrometers",
+      "Digital calipers",
+      "Johnson gauge set; various diameter and thread gauges"
+    ]
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "Precision manufacturing since 2016",
+    "description": "Expert in CNC turning, milling and wire EDM; high-precision production for aerospace and defense.",
+    "intro": "Founded in 2016 with 25 years of precision machining experience, Turnes Makina has quickly become a trusted, dynamic and innovative company.",
+    "body": "Specialized in machining, we provide the highest quality products at competitive prices thanks to our material processing and quality expertise. We also fully meet customer needs in related processes such as cold/hot forging, press and laser forming, coating and heat treatment.",
+    "why": {
+      "title": "Why Turnes Makina?",
+      "points": [
+        "Tailored solutions backed by years of experience",
+        "Strong commitment to quality and advanced technology",
+        "Comprehensive pre- and after-sales support"
+      ]
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "To deliver reliable, high-quality products that exceed customer expectations."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To be a respected company in Turkey and a globally preferred supplier in precision machining."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "address": "Demirci Mh. Sarıtoprak Sk. No:13 Nilüfer/BURSA",
+    "phone": "+90 544 282 19 75",
+    "emails": ["turnes@turnesmakina.com", "emir.sagdinc@turnesmakina.com"],
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send",
+      "thanks": "Thanks for your message!"
+    }
+  }
+}
+

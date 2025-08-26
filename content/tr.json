@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Anasayfa",
+    "machine_park": "Makine Parkuru",
+    "quality": "Kalite",
+    "products": "Ürünler",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "gallery": "Galeri"
+  },
+  "hero": {
+    "title": "Hoş Geldiniz",
+    "subtitle": "Turnes Makine — Talaşlı imalatta deneyim, kalite ve güven"
+  },
+  "machinePark": {
+    "title": "Makine Parkuru",
+    "items": [
+      "Cincom Citizen L20 Kayar Otomat",
+      "CITIZEN L32 - VII CNC",
+      "Traub TNK 36 Otomat",
+      "Takisawa TX-20G Torna",
+      "STAR SR-16 Kayar Otomat",
+      "STAR SR-32 Kayar Otomat",
+      "Nakamura Tome TMC-15 Torna",
+      "MANURHIN KMX Kayar Otomat",
+      "Feeler Freze Dikey İşleme Merkezi",
+      "Feeler QM-22 AAPC CNC",
+      "Craft TA300M Şerit Testere",
+      "Vida Ovalama Makinesi",
+      "Retosan Diş Çekme Matkabı"
+    ]
+  },
+  "quality": {
+    "title": "Ölçüm Cihazları",
+    "items": [
+      "Keyence TM3000 optik mikrometre sistemi",
+      "VMS 2010G ve videolu ölçüm",
+      "Yüzey pürüzlük ölçüm cihazı",
+      "Dijital mihengirler",
+      "Dijital mikrometreler",
+      "Dijital iç ve dış çap mikrometreleri",
+      "Dijital kumpaslar",
+      "Johnson mastar seti; muhtelif çap ve vida mastar setleri"
+    ]
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "2016'dan beri hassas imalat",
+    "description": "CNC torna, freze ve tel erezyonda uzman; havacılık ve savunma için yüksek hassasiyetli üretim.",
+    "intro": "Turnes Makine, 25 yıllık talaşlı imalat tecrübesiyle, 2016 yılında kurulmuştur. Kısa sürede müşterilerinin güvenini kazanmış, dinamik ve yenilikçi bir firma olmuştur.",
+    "body": "Talaşlı imalat alanında uzmanlaşan firmamız, malzeme işleme ve kalite deneyimiyle müşterilerine en yüksek kalitedeki ürünleri, en uygun fiyatlarla sunmaktadır. Soğuk-sıcak dövme, pres ve lazer şekillendirme ile kaplama ve ısıl işlem gibi yan proseslerde de müşteri isteklerini %100 karşılıyoruz.",
+    "why": {
+      "title": "Neden Turnes Makine?",
+      "points": [
+        "Yılların verdiği tecrübe ile özel çözümler",
+        "Kaliteye verdiğimiz önem ve ileri teknoloji",
+        "Satış öncesi ve sonrası kesintisiz destek"
+      ]
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "text": "Müşterilerimizin beklentilerini aşan, kaliteli ve güvenilir ürünler sunmak."
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "text": "Talaşlı imalat alanında Türkiye'de saygın, uluslararası alanda tercih edilen global tedarikçi olmak."
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "address": "Demirci Mh. Sarıtoprak Sk. No:13 Nilüfer/BURSA",
+    "phone": "+90 544 282 19 75",
+    "emails": ["turnes@turnesmakina.com", "emir.sagdinc@turnesmakina.com"],
+    "form": {
+      "name": "İsim Soyisim",
+      "email": "E-posta",
+      "message": "Mesaj",
+      "send": "Gönder",
+      "thanks": "Gönderdiğiniz için teşekkür ederiz!"
+    }
+  }
+}
+

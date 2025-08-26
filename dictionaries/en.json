@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "machine_park": "Machine Park",
+    "contact": "Contact",
+    "gallery": "Gallery"
+  },
+  "hero": {
+    "title": "TURNES MAKINA",
+    "subtitle": "We provide precision manufacturing solutions for the aerospace and defense industry. With 25 years of experience, we produce the most complex parts with high precision.",
+    "cta_primary": "Machine Park",
+    "cta_secondary": "Contact"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Precision manufacturing since 2016",
+    "description": "As Turnes Makina, we provide CNC turning, milling and wire EDM services. With our modern machine park and expert team, we take part in the most critical projects of the aerospace and defense industry."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Precision manufacturing with state-of-the-art CNC machines",
+    "cnc_turning": "CNC Turning",
+    "cnc_milling": "CNC Milling",
+    "wire_edm": "Wire EDM",
+    "quality": "Quality Control"
+  },
+  "contact": {
+    "title": "Contact",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send": "Send"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

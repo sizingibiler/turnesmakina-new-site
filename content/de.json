@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "machine_park": "Maschinenpark",
+    "quality": "Qualität",
+    "products": "Produkte",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "TURNES MASCHINE",
+    "subtitle": "Präzisionsfertigung für Luft- und Raumfahrt sowie Verteidigung. Mit 25 Jahren Erfahrung fertigen wir komplexe Bauteile mit höchster Genauigkeit."
+  },
+  "machinePark": {
+    "title": "Maschinenpark",
+    "items": [
+      "Cincom Citizen L20 Langdrehautomat",
+      "CITIZEN L32 - VII CNC",
+      "Traub TNK 36 Automatendrehmaschine",
+      "Takisawa TX-20G Drehmaschine",
+      "STAR SR-16 Langdrehautomat",
+      "STAR SR-32 Langdrehautomat",
+      "Nakamura Tome TMC-15 Drehmaschine",
+      "MANURHIN KMX Langdrehautomat",
+      "Feeler Vertikales Bearbeitungszentrum",
+      "Feeler QM-22 AAPC CNC",
+      "Craft TA300M Bandsäge",
+      "Gewinderollmaschine",
+      "Retosan Verzahnungsbohrmaschine"
+    ]
+  },
+  "quality": {
+    "title": "Messgeräte",
+    "items": [
+      "Keyence TM3000 optisches Mikrometersystem",
+      "VMS 2010G und Video-Messung",
+      "Oberflächenrauheitsmessgerät",
+      "Digitale Höhenmessgeräte",
+      "Digitale Mikrometer",
+      "Digitale Innen- und Außenmikrometer",
+      "Digitale Messschieber",
+      "Johnson-Lehrensatz; diverse Durchmesser- und Gewindelehren"
+    ]
+  },
+  "about": {
+    "title": "Über uns",
+    "subtitle": "Präzisionsfertigung seit 2016",
+    "description": "Experte für CNC-Drehen, Fräsen und Drahterodieren; hochpräzise Produktion für Luft- und Raumfahrt sowie Verteidigung.",
+    "intro": "Turnes Makina wurde 2016 mit 25 Jahren Erfahrung in der Zerspanung gegründet und hat sich schnell als vertrauenswürdiges, dynamisches und innovatives Unternehmen etabliert.",
+    "body": "Wir sind auf Zerspanung spezialisiert und liefern dank Materialbearbeitungs- und Qualitätskompetenz Produkte höchster Qualität zu wettbewerbsfähigen Preisen. Zudem erfüllen wir Kundenanforderungen in Nebenprozessen wie Kalt-/Warmumformen, Pressen und Laserumformen sowie Beschichtung und Wärmebehandlung vollständig.",
+    "why": {
+      "title": "Warum Turnes Makina?",
+      "points": [
+        "Maßgeschneiderte Lösungen mit langjähriger Erfahrung",
+        "Höchste Qualitätsansprüche und moderne Technologie",
+        "Umfassender Support vor und nach dem Verkauf"
+      ]
+    },
+    "mission": {
+      "title": "Unsere Mission",
+      "text": "Zuverlässige, hochwertige Produkte liefern, die die Erwartungen unserer Kunden übertreffen."
+    },
+    "vision": {
+      "title": "Unsere Vision",
+      "text": "Ein angesehenes Unternehmen in der Türkei und ein international bevorzugter Lieferant in der Präzisionsfertigung sein."
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "address": "Demirci Mh. Sarıtoprak Sk. No:13 Nilüfer/BURSA",
+    "phone": "+90 544 282 19 75",
+    "emails": ["turnes@turnesmakina.com", "emir.sagdinc@turnesmakina.com"],
+    "form": {
+      "name": "Ihr Name",
+      "email": "Ihre E-Mail",
+      "message": "Ihre Nachricht",
+      "send": "Senden",
+      "thanks": "Vielen Dank für Ihre Nachricht!"
+    }
+  }
+}
+

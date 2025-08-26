@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "machine_park": "Makine Parkuru",
+    "contact": "İletişim",
+    "gallery": "Galeri"
+  },
+  "hero": {
+    "title": "TURNES MAKİNA",
+    "subtitle": "Havacılık ve savunma sanayiine yönelik hassas imalat çözümleri sunuyoruz. 25 yıllık deneyimimizle, en karmaşık parçaları yüksek hassasiyetle üretiyoruz.",
+    "cta_primary": "Makine Parkuru",
+    "cta_secondary": "İletişim"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "2016'dan beri hassas imalat",
+    "description": "Turnes Makina olarak, CNC torna, freze ve tel erezyon hizmetleri sunuyoruz. Modern makine parkurumuz ve uzman ekibimizle, havacılık ve savunma sanayiinin en kritik projelerinde yer alıyoruz."
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "En son teknoloji CNC makinelerimizle hassas imalat",
+    "cnc_turning": "CNC Torna",
+    "cnc_milling": "CNC Freze",
+    "wire_edm": "Tel Erezyon",
+    "quality": "Kalite Kontrol"
+  },
+  "contact": {
+    "title": "İletişim",
+    "address": "Adres",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "form": {
+      "name": "Adınız Soyadınız",
+      "email": "E-posta Adresiniz",
+      "message": "Mesajınız",
+      "send": "Gönder"
+    }
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları"
+  }
+}
