@@ -8,9 +8,9 @@ export function LangSwitcher({ locale }: { locale: Locale }) {
   const parts = pathname.split("/").filter(Boolean);
   const rest = parts.slice(1).join("/");
   const langs: { code: Locale; label: string; flag: string }[] = [
-    { code: "tr", label: "TR", flag: "🇹🇷" },
-    { code: "en", label: "EN", flag: "🇬🇧" },
-    { code: "de", label: "DE", flag: "🇩🇪" },
+    { code: "tr", label: "TR", flag: "TR" },
+    { code: "en", label: "EN", flag: "EN" },
+    { code: "de", label: "DE", flag: "DE" },
   ];
   return (
     <div className="flex items-center gap-2">
